@@ -10,6 +10,7 @@
     "lint": "prettier --write src/"
   },
   "dependencies": {
+    "node-web-bluetooth": "^1.2.1",
     "esbuild": "^0.8.43"
   },
   "devDependencies": {
